@@ -63,3 +63,32 @@ desenvolvimento de um software?
     O controle de versionamento desempenha um papel crucial no desenvolvimento de software, melhorando a colaboração, a qualidade, a rastreabilidade e a capacidade de recuperação. É uma prática essencial para equipes de desenvolvimento, independentemente do tamanho ou do escopo do projeto.
 
 6.Cite pelo menos três ferramentas de controle de versão e faça um breve detalhamento sobre cada uma delas.
+
+    R: Subversion (SVN):
+
+    Descrição: O Apache Subversion, ou SVN, é um sistema de controle de versão centralizado, ele foi amplamente usado antes do Git se tornar popular e ainda é usado em muitos projetos.
+    Principais Recursos:
+    Controle de versão centralizado.
+    Rastreamento de histórico de alterações.
+    Ramificação e mesclagem, embora menos flexíveis do que o Git.
+    Boa integração com IDEs (ambientes de desenvolvimento integrados).
+
+    Mercurial:
+
+    Descrição: O Mercurial é um sistema de controle de versão distribuído que compartilha algumas semelhanças com o Git em termos de conceitos, mas tem uma abordagem mais simples e amigável para iniciantes.
+    Principais Recursos:
+    Controle de versão distribuído.
+    Interface simples e intuitiva.
+    Facilidade de uso para iniciantes.
+    Boa integração com sistemas Windows.
+    Boa performance em projetos de médio porte.
+
+    Perforce (Helix Core):
+
+    Descrição: O Perforce, anteriormente conhecido como Helix Core, é um sistema de controle de versão centralizado amplamente utilizado em ambientes empresariais e em jogos de vídeo, ele é conhecido por seu desempenho e capacidade de gerenciar ativos binários.
+    Principais Recursos:
+    Controle de versão centralizado.
+    Suporte a gerenciamento de ativos binários.
+    Escalabilidade para grandes projetos.
+    Integração com ferramentas de desenvolvimento de jogos.
+    Recursos avançados de controle de acesso e segurança.
