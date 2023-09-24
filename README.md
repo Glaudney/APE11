@@ -5,6 +5,8 @@
 
 2.O que é versionamento de software?
 
+    R: O versionamento de software, também conhecido como controle de versão de software, é o processo de rastrear e gerenciar as diferentes versões e alterações em um projeto de software ao longo do tempo, ele é uma prática essencial no desenvolvimento de software, que oferece várias vantagens, incluindo o controle de mudanças, a colaboração eficiente e a capacidade de recuperação.
+
 3.Por que utilizar o Git como controle de versionamento?
 
 4.Quais as vantagens do Git?
